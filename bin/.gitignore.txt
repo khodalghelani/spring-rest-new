@@ -1,0 +1,7 @@
+.set
+.idea
+build
+target
+*.class
+.settings
+.metadata
